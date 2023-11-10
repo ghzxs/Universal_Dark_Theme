@@ -3,8 +3,8 @@
 // @namespace	uni_dark_theme
 // @version		1.32
 // @description	Simple Dark Theme style for any website which you can configure per-site
-// @downloadURL	https://github.com/Owyn/Universal_Dark_Theme/raw/master/uni_dark_theme.user.js
-// @updateURL	https://github.com/Owyn/Universal_Dark_Theme/raw/master/uni_dark_theme.user.js
+// @downloadURL	https://github.com/ghzxs/Universal_Dark_Theme/raw/master/uni_dark_theme.user.js
+// @updateURL	https://github.com/ghzxs/Universal_Dark_Theme/raw/master/uni_dark_theme.user.js
 // @supportURL	https://github.com/Owyn/Universal_Dark_Theme/issues
 // @homepage	https://github.com/Owyn/Universal_Dark_Theme
 // @icon		https://images2.imgbox.com/b3/67/Aq5XazuW_o.png
