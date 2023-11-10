@@ -38,10 +38,10 @@
 	{
 		case "true": // back-compatibility
 		case "1":
-			cfg_active = true;
+			cfg_active = false;
 			break;
 		default:
-			cfg_active = false;
+			cfg_active = true;
 			break;
 	}
 	function load_settings()
