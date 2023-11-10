@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name		Universal Dark Theme Maker
 // @namespace	uni_dark_theme
-// @version		1.32
+// @version		1.33
 // @description	Simple Dark Theme style for any website which you can configure per-site
 // @downloadURL	https://github.com/ghzxs/Universal_Dark_Theme/raw/master/uni_dark_theme.user.js
 // @updateURL	https://github.com/ghzxs/Universal_Dark_Theme/raw/master/uni_dark_theme.user.js
@@ -54,9 +54,9 @@
 		cfg_match_pseudo = (localStorage.getItem('match_pseudo') === '1');
 		if (typeof GM_getValue !== "undefined")
 		{
-			cfg_color = GM_getValue("Color", "#c0c0c0");
-			cfg_bgclr = GM_getValue("bgColor", "#2e2e2e");
-			cfg_visclr = GM_getValue("visitedColor", "#a4a4a4");
+			cfg_color = GM_getValue("Color", "#FFFFFF");
+			cfg_bgclr = GM_getValue("bgColor", "#OOOOOO");
+			cfg_visclr = GM_getValue("visitedColor", "#FFFFFF");
 		}
     }
 
